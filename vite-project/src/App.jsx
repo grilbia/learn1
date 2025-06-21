@@ -2,7 +2,8 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>no hi</div>
+    <div>i know git hub..
+    </div>
   )
 }
 
